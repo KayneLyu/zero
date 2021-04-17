@@ -9,7 +9,8 @@ class App extends Component {
     todos:[
       {id:1,name:'学习',done:true},
       {id:2,name:'吃饭',done:false},
-      {id:3,name:'写代码',done:false}
+      {id:3,name:'写代码',done:false},
+      {id:4,name:'撸猫',done:false}
     ],
     isDone:0,
     // checkAll:false
